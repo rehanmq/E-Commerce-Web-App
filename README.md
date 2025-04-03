@@ -59,20 +59,26 @@ e-shopify/
 
 ## 🧪 How to Run
 ### Backend (Spring Boot)
-1. Go to `backend/`
-2. Configure `application.properties` with your DB credentials
-3. Run the app:
+1. Navigate to the backend directory:
+```bash
+cd backend/
+```
+2. Configure your database in `src/main/resources/application.properties`
+3. Build and run the application using Maven Wrapper:
 ```bash
 ./mvnw spring-boot:run
 ```
 
 ### Frontend (React)
-1. Go to `frontend/`
+1. Navigate to the frontend directory:
+```bash
+cd frontend/
+```
 2. Install dependencies:
 ```bash
 npm install
 ```
-3. Run the frontend app:
+3. Start the React development server:
 ```bash
 npm start
 ```
