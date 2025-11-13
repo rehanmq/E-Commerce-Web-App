@@ -112,4 +112,4 @@ GET    /api/users/me
 ---
 
 ## 👨‍💻 Author
-Developed by **Rehan Mohammed Qureshi** — [LinkedIn](http://linkedin.com/in/rehanq-tech)
+Developed by **Rehan Mohammed Qureshi** — [LinkedIn](https://www.linkedin.com/in/rehanmq/)
